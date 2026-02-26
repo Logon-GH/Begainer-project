@@ -28,7 +28,7 @@ int main(){
             return 0;
         }
         //create the file or the path where the code will be
-        filename = path + "/Hi" + to_string(file_count) + ".cpp";
+        filename = path + "/Codeforces" + to_string(file_count) + ".cpp";
         //create ofstream for filename
         ofstream outfile(filename);
 
@@ -81,4 +81,5 @@ std::string Write_code(){
         code += line + "\n";
     }
     return code;
+
 }

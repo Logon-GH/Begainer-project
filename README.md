@@ -1,2 +1,2 @@
-# Begainer-project
-Just new to programming.
+# CODEFORCES for COLLAGE
+Written in c++.
